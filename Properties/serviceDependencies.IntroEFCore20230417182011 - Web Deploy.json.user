@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2023-04-17T21:23:39.9438954Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2023-04-17T21:33:09.6976707Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "696936c0-3428-4659-8119-4dfd67defdc3"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "IntroEFCore"
+    }
+  }
+}
